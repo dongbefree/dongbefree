@@ -1,16 +1,36 @@
-## Hi there 👋
-
-<!--
-**dongbefree/dongbefree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+你好，我是 dongbefree 👋
+我做的都是同一件事：把每天杂乱的输入，压成明天能用的东西。
+我关注注意力和时间的整理——不是追求「记住更多」，而是让已经进来过的东西，在真正需要的时候能被找到、被想起、被消化。
+我在做的东西
+项目
+它解决什么
+一句话
+状态
+页后 · After the Page
+读过的内容记不住、第二天忘光
+贴入长文 → 结构化摘要 → 次日自动补写昨日简报
+✅ 已上线自用
+Rhythm ♪
+一天的事太碎、没节奏
+零依赖 CLI，晨/午/晚三条简报 + 跨平台通知
+✅ 可用
+DropTidy 📥
+文件堆在下载文件夹找不到
+丢进投递区，自动归类；支持预览与撤销
+✅ 可用
+Break
+工作累了没个出口
+30 秒摸鱼站：休息建议 + 鱼库 + 匿名树洞
+✅ 可用
+这四个不是四个随机 demo，是一个人对「注意力与时间的整理」的持续执念：
+页后整理读过的，Rhythm 整理要做和要学的，DropTidy 整理文件，Break 整理疲惫。
+我认可的做法
+- 先跑通再谈完美——最小闭环优先，丑没关系。
+- 砍掉比添加更值钱——页后没有后台、没有标签体系，只留「投入—消化—次日回顾」这一个闭环。
+- 诚实面对限制——每个项目 README 里都有一节「已知限制」，写清楚它现在做不了什么。
+- 用 AI 做执行，自己做判断——需求定义、验收、取舍是我做的，实现是 AI 生成后我逐轮改的。
+技术栈
+JavaScript · Python · Flask · SQLite · PostgreSQL (RLS) · LLM 结构化输出
+联系我
+- GitHub：点击此处给我发 issue
+最后说一句：欢迎 clone 任何一个项目，双击就能跑。如果哪里跑不起来，开个 issue 告诉我，我会改。
